@@ -13,4 +13,8 @@ No terminal digitar os comandos :
 ## clone repo 
 - git clone <path-repo>
 
+## Autor 
+nome : Matheus-git
+turma: a 
+
 
